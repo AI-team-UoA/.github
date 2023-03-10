@@ -8,12 +8,8 @@
     <img src="https://glosariobibliotecas.com/wp-content/uploads/2019/11/rese.png" width="200px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
   
-  <a href="https://github.com/AI-team-UoA">
-    <img src="https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/01/GitHub.jpeg" width="200px"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;  
-  
   <a href="https://ai.di.uoa.gr">
-    <img src="https://ismirri21.mirri.org/wp-content/uploads/2020/05/NKUA.jpg" width="300px"/>
+    <img src="https://ismirri21.mirri.org/wp-content/uploads/2020/05/NKUA.jpg" width="250px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
   
 </p>
